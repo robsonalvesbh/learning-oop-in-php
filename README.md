@@ -194,6 +194,16 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [N-Tier Architecture - An Introduction](http://blog.ircmaxell.com/2012/08/n-tier-architecture-introduction.html) - An introduction to n-tier architecture.
 * [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture) - An introduction to Hexagonal Architecture in PHP.
 
+### CQRS & Event Sourcing
+*CQRS & Event Sourcing tutorials.*
+
+* [CQRS by Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf) - A complete guide about CQRS pattern by Greg Young.
+* [CQRS by Martin Fowler](https://martinfowler.com/bliki/CQRS.html) - An introduction to CQRS pattern by Margin Fowler.
+* [1 Year of Event Sourcing and CQRS](https://hackernoon.com/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6) - A report after a year using e cqrs and event sourcing.
+* [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a) - Another look at cqrs and event sourcing.
+* [DDD, CQRS and Event Sourcing slack](https://ddd-cqrs-es.slack.com/) - Slack of DDD, CQRS and Event Sourcing community.
+* [getprooph](http://getprooph.org/) - A library php for CQRS and Event Sourcing.
+
 ### Miscellaneous
 *Not related to OOP but interesting resources.*
 
